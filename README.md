@@ -1,81 +1,101 @@
-<h1 align="center">Hi, I'm Junia 👋🏾</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   JUNIA & CO. · A WORKING PORTFOLIO                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <em>Senior Technical Product Manager · Founder, Age of Advocacy · The Education Alchemist</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://juniajanvier.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-juniajanvier.com-C4637A?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/juniajanvier/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-3BBCD0?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:junia@juniajanvier.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Reach_out-D4845A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<sub><b>VOL. I · NO. 1  ·  PROVIDENCE, RI</b></sub>
+
+# *Junia &nbsp;&amp;&nbsp; Co.*
+
+<sub><i>A working portfolio of products, language, and code.</i></sub>
+
+</div>
 
 ---
 
-### 🧪 What I'm Working On
+### — The Feature —
 
-I build **API and data platforms at scale** — currently leading product strategy for systems serving 16M+ accounts and a 30M+ account migration at Capital One. Outside that, I'm:
+# On building systems that *hold* people, not just process them.
 
-- 🤖 Building **AI tooling for technical product managers** — open-sourcing TPM workflows powered by Claude
-- 📚 Running **Age of Advocacy** — K-12 digital equity programming since 2019
-- 🏠 Licensed REALTOR® at Corcoran Chart House Realty (Providence, RI)
-- ✍️ Writing fiction — Afrofuturist novel with a constructed language
-- 🎤 Speaking on tech, equity, and education (NSBE, Black Is Tech, Girls Who Code, BU)
+> A senior TPM at Capital One. A REALTOR® at Corcoran. A founder of Age of Advocacy. A writer working in a language that doesn't exist yet.
+
+Most of what lives in this profile is infrastructure. Repos that document how I think about API design at scale, how I audit products for equity gaps, how I use AI to compress the work that takes me from product manager to broker to teacher in a single day. The rest is curiosity, kept public so it stays honest.
 
 ---
 
-### 🛠️ Stack & Tools
+<div align="center">
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FDF8F4?style=flat-square&logo=python&logoColor=2A1A0E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FDF8F4?style=flat-square&logo=typescript&logoColor=2A1A0E" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-FDF8F4?style=flat-square&logo=postgresql&logoColor=2A1A0E" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FDF8F4?style=flat-square&logo=amazonaws&logoColor=2A1A0E" />
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-FDF8F4?style=flat-square&logo=snowflake&logoColor=2A1A0E" />
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FDF8F4?style=flat-square&logo=dbt&logoColor=2A1A0E" />
-  <img alt="Claude API" src="https://img.shields.io/badge/Claude_API-FDF8F4?style=flat-square&logo=anthropic&logoColor=2A1A0E" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-FDF8F4?style=flat-square&logo=jira&logoColor=2A1A0E" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-FDF8F4?style=flat-square&logo=figma&logoColor=2A1A0E" />
-</p>
+| **16M+** | **30M+** | **4** | **2019** |
+|:---:|:---:|:---:|:---:|
+| Accounts at Cap One | Migration Scale | Working Languages | Age of Advocacy founded |
+
+</div>
 
 ---
 
-### 🌐 Languages I Work In
+### — The Stack —
 
-**Code:** Python, TypeScript, SQL
-**Spoken:** English (native), Haitian Creole (fluent), Spanish (conversational), French (conversational), Latin (reading)
+![Python](https://img.shields.io/badge/Python-2A1A0E?style=flat-square&logo=python&logoColor=FDF8F4)
+![SQL](https://img.shields.io/badge/SQL-2A1A0E?style=flat-square&logo=postgresql&logoColor=FDF8F4)
+![Snowflake](https://img.shields.io/badge/Snowflake-2A1A0E?style=flat-square&logo=snowflake&logoColor=FDF8F4)
+![AWS](https://img.shields.io/badge/AWS-2A1A0E?style=flat-square&logo=amazon-aws&logoColor=FDF8F4)
+![Claude](https://img.shields.io/badge/Claude-C4637A?style=flat-square&logoColor=FDF8F4)
 
----
-
-### 🧱 Selected Work
-
-- **[juniajanvier.com](https://juniajanvier.com)** — Personal site. WordPress + Elementor on the Olivia theme; custom JavaScript for the cursor system, animated storybook widget (Turn.js), WooCommerce shop, Wordfence + GA4 + Search Console hardening. Designed and built solo.
-- **Claude TPM Copilot** — See pinned ↓
-- **Age of Advocacy** — K-12 digital equity programming I've been running since 2019
-
----
-
-### 📌 Pinned Projects
-
-See pinned below ↓
+![API Platforms](https://img.shields.io/badge/API_Platforms-C4637A?style=flat-square&logoColor=FDF8F4)
+![Income Decisioning](https://img.shields.io/badge/Income_Decisioning-3BBCD0?style=flat-square&logoColor=2A1A0E)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-7CC142?style=flat-square&logoColor=2A1A0E)
+![EdTech](https://img.shields.io/badge/EdTech-D4845A?style=flat-square&logoColor=FDF8F4)
+![PropTech](https://img.shields.io/badge/PropTech-2A1A0E?style=flat-square&logoColor=FDF8F4)
 
 ---
 
-### 📫 Find Me
+### — Column One —
+## The Day Job
 
-- 🌐 [juniajanvier.com](https://juniajanvier.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/juniajanvier/)
-- 📧 [Email](mailto:junia@juniajanvier.com)
-- 📅 [Book time](https://juniajanvier.com/contact)
+Senior Technical Program Manager owning Capital One's API and Income Data Platforms (IDS). Currently leading a large-scale migration of 30M+ consumer accounts from Discover Financial Services. Most of what I do is decisioning infrastructure. The systems that decide whether a person can borrow, build, buy a home.
+
+### — Column Two —
+## The Practice
+
+Licensed REALTOR® with Corcoran Chart House Realty in Providence, serving Providence's Haitian, Dominican, and Caribbean communities in English, Haitian Creole, Spanish, and French. The thesis: technology and real estate are both about preserving space.
+
+### — Column Three —
+## The Long Work
+
+Age of Advocacy, the K-12 digital equity initiative founded in 2019, is the through-line. Studying for the LSAT now with IP law and AI policy as the long horizon. The same questions, just better tools to answer them.
 
 ---
 
-<p align="center">
-  <em>"Education is the alchemy that turns access into power."</em>
-</p>
+### — Pinned Works —
+
+| № | Repository | Description |
+|---|---|---|
+| **001** | [juniajanvier-site](https://github.com/juniajanvier/juniajanvier-site) | Personal site infrastructure for The Education Alchemist |
+| **002** | [claude-tpm-copilot](https://github.com/juniajanvier/claude-tpm-copilot) | TPM workflow tools built atop Claude |
+| **003** | [dei-audit-toolkit](https://github.com/juniajanvier/dei-audit-toolkit) | Open framework for auditing products for equity gaps |
+| **004** | [daily-dispatch](https://github.com/juniajanvier/daily-dispatch) | A small SMS service that texts you what you need to hear |
+| **005** | [junia-gpt](https://github.com/juniajanvier/junia-gpt) | A custom assistant trained on context, voice, and brand |
+| **006** | [age-of-advocacy](https://github.com/juniajanvier/age-of-advocacy) | K-12 digital equity curriculum and research |
+
+---
+
+### — /now —
+
+*What I'm reading, building, writing.*
+
+- **i.** Migrating 30M+ accounts from Discover at Capital One
+- **ii.** Launching real estate practice with Corcoran, April 2026
+- **iii.** Studying for the June 2026 LSAT
+- **iv.** Writing an Afrofuturist novel in a constructed language
+- **v.** Building this profile in public, slowly, honestly
+
+---
+
+<div align="center">
+
+<sub><i>[juniajanvier.com](https://juniajanvier.com)  ·  Providence, RI</i></sub>
+
+<sub>[LinkedIn](https://linkedin.com/in/juniajanvier)  ·  [Email](mailto:hello@juniajanvier.com)</sub>
+
+</div>
