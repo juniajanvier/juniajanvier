@@ -80,8 +80,9 @@ Age of Advocacy, the K-12 digital equity initiative founded in 2019, is the thro
 | **004** | [daily-dispatch](https://github.com/juniajanvier/daily-dispatch) | A small SMS service that texts you what you need to hear |
 | **005** | [junia-gpt](https://github.com/juniajanvier/junia-gpt) | A custom assistant trained on context, voice, and brand |
 | **006** | [junes-day](https://github.com/juniajanvier/junes-day) | A desktop companion that turns habits, tasks and focus time into a living scene |
-| **007** | [contact-cleanup-pipeline](https://github.com/juniajanvier/contact-cleanup-pipeline) | Finds stale, duplicate and unidentified contacts, privacy first |
-| **008** | [photo-video-triage](https://github.com/juniajanvier/photo-video-triage) | Triage a huge photo library without moving or deleting a file |
+| **007** | [life-tracker-automation](https://github.com/juniajanvier/life-tracker-automation) | Apps Script engine for a Google Sheets life and task tracker |
+| **008** | [contact-cleanup-pipeline](https://github.com/juniajanvier/contact-cleanup-pipeline) | Finds stale, duplicate and unidentified contacts, privacy first |
+| **009** | [photo-video-triage](https://github.com/juniajanvier/photo-video-triage) | Triage a huge photo library without moving or deleting a file |
 
 ---
 
